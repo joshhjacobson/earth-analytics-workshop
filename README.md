@@ -1,2 +1,7 @@
-# earth-analytics-workshop
-Spatial data open source python workshop, Earth Lab CU Boulder
+# Spatial Data Workshop
+Earth Lab
+University of Colorado Boulder
+July 20, 2018
+
+***
+Learn to use Rasterio and Geopandas to work with vector data and shape files.
